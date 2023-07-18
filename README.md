@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dc26gbgjijvoj26kswztiygk3a&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=069801&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ester+Medeiros;Sou+uma+desenvolvedora+júnior+iniciante;Sou+brasileira;Seja+Bem-Vindo+!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
