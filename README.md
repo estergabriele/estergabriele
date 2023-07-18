@@ -19,7 +19,5 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dc26gbgjijvoj26kswztiygk3a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=367533&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c3b2e&height=120&section=footer"/>
