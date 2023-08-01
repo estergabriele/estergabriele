@@ -19,7 +19,6 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  ![JSON](https://img.shields.io/badge/-JSON-0D1117?style=for-the-badge&logo=JSON&logoColor=1572B6&labelColor=0D1117)&nbsp;
- ![JQUERY](https://img.shields.io/badge/-JQUERY-0D1117?style=for-the-badge&logo=JQUERY&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c3b2e&height=120&section=footer"/>
